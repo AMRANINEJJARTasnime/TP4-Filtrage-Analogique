@@ -263,6 +263,7 @@ title('spectre filtré pour fc=500');
 
 ```
 <img width="418" alt="comp" src="https://user-images.githubusercontent.com/121026580/215294036-49c3b5b5-8748-4993-b922-28c96de729b5.png">
+
 >Il est impossible pour un filtre passe-haut d'éliminer totalement les données indésirables car il ne peut sélectionner que les fréquences élevées, il y aura toujours des composantes de fréquences basses qui passeront à travers le filtre.
 
 # Dé-bruitage d'un signal sonore
