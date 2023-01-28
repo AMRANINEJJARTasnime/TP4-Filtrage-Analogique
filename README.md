@@ -241,7 +241,7 @@ title('spectre filtré pour fc=500');
 
 <img width="410" alt="new fc" src="https://user-images.githubusercontent.com/121026580/215293133-2f57a485-99d3-4f7f-aa78-c608144cac55.png">
 
->Pour ce filtre passe haut on a réussi à atténuer le bruit; en revanche on a pas perdu beaucoup d informations. Le filtre n'est pas bien choisi.
+>Pour ce filtre passe haut on a réussi à atténuer le bruit; en revanche on a perdu beaucoup d informations. Le filtre n'est pas bien choisi.
 
 
 5. Observez le signal y(t) obtenu, puis Comparer-le avec le signal que vous auriez 
